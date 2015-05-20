@@ -1,0 +1,30 @@
+<add xmlns="http://lucene.apache.org/solr/4/document">
+<doc>
+<field name="uuid">http://hdl.handle.net/2451/33916</field>
+<field name="dc_identifier_s">http://hdl.handle.net/2451/33916</field>
+<field name="dc_title_s">2010 China Coastlines and Islands</field>
+<field name="dc_description_s">
+This file contains the boundaries for China's coastlines and islands.
+</field>
+<field name="dc_rights_s">Restricted</field>
+<field name="dct_provenance_s">New York University</field>
+<field name="dct_references_s">
+{"http://schema.org/url":"http://hdl.handle.net/2451/33916","http://www.opengis.net/def/serviceType/ogc/wfs": "http://chinadatacenter.org/Data/ServiceContent.aspx?id=1624": "http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wfs","http://www.opengis.net/def/serviceType/ogc/wms":"http://geoblacklight.isabelponte.com:8080/geoserver/nyu_ws/wms"}
+</field>
+<field name="layer_id_s">nyu_ws:2010_China_Township_Coastline_WGS84</field>
+<field name="layer_slug_s">nyu_ws:2010_China_Township_Coastline_WGS84</field>
+<field name="layer_geom_type_s">Polygon</field>
+<field name="layer_modified_dt">2015-04-03T20:06:04Z</field>
+<field name="dc_format_s">Shapefile</field>
+<field name="dc_language_s">eng</field>
+<field name="dc_language_s">chi</field>
+<field name="dc_type_s">Dataset</field>
+<field name="dc_publisher_s">University of Michigan China Data Center</field>
+<field name="dc_subject_sm">China--boundaries</field>
+<field name="dc_subject_sm">Islands--China</field>
+<field name="dct_temporal_sm">2010</field>
+<field name="dct_spatial_sm">People's Republic of China</field>
+<field name="dct_relation_sm">http://sws.geonames.org/1814991/about/rdf</field>
+<field name="georss_box_s">53.5608154 73.4997347 134.7754563 3.966236</field>
+</doc>
+</add>
