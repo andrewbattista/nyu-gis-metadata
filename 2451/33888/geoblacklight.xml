@@ -7,7 +7,7 @@
 This point shapefile displays restaurants in Manhattan that received a grade of "A" from the Department of Health and Mental Hygiene Restaurant Inspection. The points were extracted from the DOHMH New York City Restaurant Inspection Results dataset as current on 3/6/2015. Note that the locations were established with the LION geocoder in ArcMap, and some locations, espcially those in parks, piers, and side streets, on the dataset are not reflected in this file.
 </field>
 <field name="dc_rights_s">Public</field>
-<field name="dct_provenance_s">New York University</field>
+<field name="dct_provenance_s">NYU</field>
 <field name="dct_references_s">
 https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/xx67-kt59
 </field>
