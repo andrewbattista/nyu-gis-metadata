@@ -8,7 +8,7 @@ name of collection in one word / first 4 digits of handle url / last 5 digits of
 
 example:
 
-http://nyu-gis-metadata/pilot/2451/33920/geoblacklight.json
+nyu-gis-metadata/pilot/2451/33920/geoblacklight.json
 
 Every geoblacklight file is named geoblacklight.json and when appropriate other original metadata records will be added into this repository.
 
