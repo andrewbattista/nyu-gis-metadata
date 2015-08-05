@@ -1,3 +1,4 @@
+
 {
 "uuid": "http:\/\/hdl.handle.net\/2451\/34061",
 "dc_identifier_s": "http:\/\/hdl.handle.net\/2451\/34061",
@@ -9,10 +10,10 @@
 "layer_id_s": "nyu_sdr:2010USandCanadaRailroads",
 "layer_slug_s": "2010USandCanadaRailroads",
 "layer_geom_type_s": "Line",
-"layer_modified_dt": "2015-8-5T15:45:38Z",
+"layer_modified_dt": "2015-8-5T15:47:25Z",
 "dc_format_s": "Shapefile",
 "dc_language_s": "eng",
-"dc_type_s": [],
+"dc_type_s": "Dataset",
 "dc_publisher_s": " ESRI",
 "dc_creator_sm": [],
 "dc_subject_sm": ["Railroads","Railroads and state--Canada","Transportation"],
